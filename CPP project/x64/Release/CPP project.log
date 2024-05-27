@@ -1,0 +1,29 @@
+﻿  Movie.cpp
+E:\C++\C++ project\CPP project\Movie.cpp(95,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ project\CPP project\Movie.cpp(110,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ project\CPP project\Movie.cpp(124,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ project\CPP project\Movie.cpp(133,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ project\CPP project\Movie.cpp(146,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MovieBrowser.cpp
+E:\C++\C++ project\CPP project\MovieBrowser.cpp(239,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++\C++ project\CPP project\MovieBrowser.cpp(263,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\C++\C++ project\CPP project\MovieBrowser.cpp(279,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  gui.cpp
+E:\C++\C++ project\CPP project\gui.cpp(323,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(343,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(401,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(411,65): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(421,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(431,70): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(441,68): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(451,48): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(461,69): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(471,72): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(481,73): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\C++\C++ project\CPP project\gui.cpp(492,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 556 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CPP project.vcxproj -> E:\C++\C++ project\bin\MovieBrowser2023.exe

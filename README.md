@@ -1,3 +1,7 @@
+# Movie-Browser Application
+
+This project was created as part of a C++ course at AUEB University. The objective was to develop a basic graphical interface for a film library using the Simple Graphics Library (SGG).
+
 ## Installation
 
 To run the application:
